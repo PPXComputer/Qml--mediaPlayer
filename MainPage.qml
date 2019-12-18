@@ -314,58 +314,58 @@ Flickable {
 
                 ListElement {
                     name: "[华语速爆新歌] 最新华语音乐推荐"
-                    icon: "qrc:/gridView/109951164188441847.jpg.png"
+                    icon: "qrc:/gridView/Iamges/gridView/109951164188441847.jpg.png"
                      comment:"音乐应该被人发现"
                 }
                 ListElement {
                     name: "注入灵魂|当神级说唱遇上天籁HOOK"
-                    icon: "qrc:/gridView/109951164213417907.jpg.png"
+                    icon: "qrc:/gridView/Iamges/gridView/109951164213417907.jpg.png"
                      comment:"优质华语新歌"
                 }
 
                 ListElement{
                     name:"【旋律控】超级好听的欧美良曲"
-                    icon:"qrc:/gridView/109951164399406487.jpg"
+                    icon:"qrc:/gridView/Iamges/gridView/109951164399406487.jpg"
                     comment:"音乐应该被人发现"
                 }
                 ListElement{
                     name:"好这平凡的一生"
-                    icon:"qrc:/gridView/109951164425343786.jpg"
+                    icon:"qrc:/gridView/Iamges/gridView/109951164425343786.jpg"
                     comment:"音乐应该被人发现"
                 }
 
                 ListElement{
                     name:"好听到单曲循环鸭"
-                    icon:"qrc:/gridView/109951164544249530.jpg"
+                    icon:"qrc:/gridView/Iamges/gridView/109951164544249530.jpg"
                     comment:"音乐应该被人发现"
                 }
 
                 ListElement{
                     name:"写给坚强的你 "
-                    icon:"qrc:/gridView/109951164546424860.jpg.png"
+                    icon:"qrc:/gridView/Iamges/gridView/109951164546424860.jpg.png"
                     comment:"音乐应该被人发现"
                 }
 
                 ListElement{
                     name:"那个人现在还在你身边吗 "
-                    icon:"qrc:/gridView/109951164554007381.jpg"
+                    icon:"qrc:/gridView/Iamges/gridView/109951164554007381.jpg"
                     comment:"音乐应该被人发现"
                 }
 
                 ListElement{
                     name:"心做（男声）"
-                    icon:"qrc:/gridView/1380986606815861.jpg"
+                    icon:"qrc:/gridView/Iamges/gridView/1380986606815861.jpg"
                     comment:"音乐应该被人发现"
                 }
 
 //                ListElement{
 //                    name:"岁月旅歌"
-//                    icon:"qrc:/gridView/Iamges/GirdView/1418370012865049.jpg"
+//                    icon:"qrc:/gridView/Iamges/gridView/Iamges/GirdView/1418370012865049.jpg"
 //                    comment:"音乐应该被人发现"
 //                }
 //                ListElement{
 //                    name:" 你绝对熟悉的电音 自嗨蹦迪"
-//                    icon:"qrc:/gridView/Iamges/GirdView/1380986606815861.jpg"
+//                    icon:"qrc:/gridView/Iamges/gridView/Iamges/GirdView/1380986606815861.jpg"
 //                    comment:"音乐应该被人发现"
 //                }
 
@@ -394,6 +394,7 @@ Flickable {
                     height:160
 
                     Image {
+                        //"qrc:/gridView/Iamges/gridView/Iamges/gridView/109951164399406487.jpg"
                         id: myIcon
                         y: 20
                         anchors.centerIn: parent

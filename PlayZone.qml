@@ -33,7 +33,7 @@ Item {
                             height: 200
                             anchors.horizontalCenter: parent.horizontalCenter
                             anchors.verticalCenter: parent.verticalCenter
-                            source: "qrc:/gridView/109951164425343786.jpg"
+                            source: "qrc:/gridView/Iamges/gridView/109951164425343786.jpg"
                         }
                     }
 

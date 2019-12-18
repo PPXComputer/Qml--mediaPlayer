@@ -33,14 +33,14 @@
         <file>Iamges/play/bofang.png</file>
     </qresource>
     <qresource prefix="/gridView">
-        <file>109951164554007381.jpg</file>
-        <file>109951164546424860.jpg.png</file>
-        <file>109951164544249530.jpg</file>
-        <file>109951164425343786.jpg</file>
-        <file>109951164399406487.jpg</file>
-        <file>109951164213417907.jpg.png</file>
-        <file>109951164188441847.jpg.png</file>
-        <file>1380986606815861.jpg</file>
+        <file>Iamges/gridView/109951164554007381.jpg</file>
+        <file>Iamges/gridView/109951164546424860.jpg.png</file>
+        <file>Iamges/gridView/109951164544249530.jpg</file>
+        <file>Iamges/gridView/109951164425343786.jpg</file>
+        <file>Iamges/gridView/109951164399406487.jpg</file>
+        <file>Iamges/gridView/109951164213417907.jpg.png</file>
+        <file>Iamges/gridView/109951164188441847.jpg.png</file>
+        <file>Iamges/gridView/1380986606815861.jpg</file>
     </qresource>
     <qresource prefix="/images">
         <file>选区_002.png</file>

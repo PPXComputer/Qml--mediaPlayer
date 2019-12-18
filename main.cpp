@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
     app.setOrganizationDomain("ppx.github");
     app.setApplicationName("ppx Application");
 
-    app.setWindowIcon (QIcon{"qrc:/gridView/109951164213417907.jpg.png"});
+    app.setWindowIcon (QIcon{"qrc:/gridView/Iamges/gridView/109951164213417907.jpg.png"});
 
 
     QQmlApplicationEngine engine;
