@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>Iamges/arrow-left.png</file>
+        <file>Iamges/round-arrow-down.png</file>
+        <file>Iamges/icon_udbw6jfgr79/arrow-left.png</file>
+        <file>Iamges/icon_udbw6jfgr79/arrow-more.png</file>
+        <file>Iamges/icon_udbw6jfgr79/arrow-right.png</file>
+        <file>Iamges/icon_udbw6jfgr79/cross.png</file>
+        <file>Iamges/icon_udbw6jfgr79/favorate.png</file>
+        <file>Iamges/icon_udbw6jfgr79/home.png</file>
+        <file>Iamges/icon_udbw6jfgr79/message.png</file>
+        <file>Iamges/icon_udbw6jfgr79/position.png</file>
+        <file alias="qq">Iamges/icon_udbw6jfgr79/qq.png</file>
+        <file>Iamges/icon_udbw6jfgr79/round-arrow-left.png</file>
+        <file>Iamges/icon_udbw6jfgr79/round-arrow-right.png</file>
+        <file>Iamges/icon_udbw6jfgr79/round-arrow-up.png</file>
+        <file>Iamges/icon_udbw6jfgr79/round-cross.png</file>
+        <file>Iamges/icon_udbw6jfgr79/round-warning.png</file>
+        <file>Iamges/icon_udbw6jfgr79/setting.png</file>
+        <file>Iamges/icon_udbw6jfgr79/shop.png</file>
+        <file>Iamges/icon_z4gltkbfpue/Next-Button.png</file>
+        <file>Iamges/icon_z4gltkbfpue/Play-Button.png</file>
+        <file>Iamges/icon_z4gltkbfpue/Radio-.png</file>
+        <file>Iamges/icon_z4gltkbfpue/Rec-Button.png</file>
+        <file>Iamges/icon_z4gltkbfpue/Stop-Button.png</file>
+        <file>Iamges/icon_z4gltkbfpue/Wav-Doc.png</file>
+    </qresource>
+</RCC>

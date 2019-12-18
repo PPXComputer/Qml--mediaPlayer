@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GuideModel.qml</file>
+        <file>DelegateComponet.qml</file>
+        <file>DelegateRepater.qml</file>
+        <file>MainPage.qml</file>
+        <file>SongList.qml</file>
+        <file>PlayZone.qml</file>
+    </qresource>
+    <qresource prefix="/iamges"/>
+    <qresource prefix="/" lang="qml"/>
+</RCC>

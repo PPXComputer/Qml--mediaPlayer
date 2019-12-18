@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>musicResource/Thomas Greenberg - The Right Path.mp3</file>
+        <file>musicResource/平井真美子 - 孤灯.mp3</file>
+        <file>musicResource/松本文紀 - 空気力学少女と少年の詩 -Oegel Ver.-.mp3</file>
+        <file>musicResource/吴越 - Sweet Sunday.mp3</file>
+    </qresource>
+    <qresource prefix="/tour">
+        <file>Iamges/tour/yunyunpan.png</file>
+        <file>Iamges/tour/yinle_1.png</file>
+        <file>Iamges/tour/yinle.png</file>
+        <file>Iamges/tour/xiazai.png</file>
+        <file>Iamges/tour/vipsirenzhuanxiangdingzhiyewukehu.png</file>
+        <file>Iamges/tour/MV.png</file>
+        <file>Iamges/tour/geshou.png</file>
+        <file>Iamges/tour/dilanxianxingiconyihuifu_huabanfuben.png</file>
+        <file>Iamges/tour/diantai.png</file>
+        <file>Iamges/tour/aixin.png</file>
+    </qresource>
+    <qresource prefix="/play">
+        <file>Iamges/play/zanting.png</file>
+        <file>Iamges/play/xiayishou-yuanshijituantubiao.png</file>
+        <file>Iamges/play/shangyishou-yuanshijituantubiao.png</file>
+        <file>Iamges/play/bofang.png</file>
+    </qresource>
+    <qresource prefix="/model">
+        <file>Iamges/model/yinliang-guan.png</file>
+        <file>Iamges/model/yinliang-di.png</file>
+        <file>Iamges/model/xunhuanbofang.png</file>
+        <file>Iamges/model/suijibofang.png</file>
+        <file>Iamges/model/shunxubofang.png</file>
+    </qresource>
+    <qresource prefix="/menu">
+        <file>Iamges/menu/xiazai.png</file>
+        <file>Iamges/menu/shoucang.png</file>
+        <file>Iamges/menu/shanchu.png</file>
+        <file>Iamges/menu/fuzhilianjie.png</file>
+        <file>Iamges/menu/fenxiang.png</file>
+        <file>Iamges/menu/bianji.png</file>
+    </qresource>
+</RCC>

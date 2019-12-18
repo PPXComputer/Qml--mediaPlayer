@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/listImage">
+        <file>otherImage/v2-f7069c486b92523f1a8d86f900872e1b_r.jpg</file>
+        <file>otherImage/1/xunhuanbofang.png</file>
+        <file>otherImage/1/xiayishou.png</file>
+        <file>otherImage/1/xiangzuo.png</file>
+        <file>otherImage/1/xiangyou.png</file>
+        <file>otherImage/1/wj-bflb.png</file>
+        <file>otherImage/1/suijibofang.png</file>
+        <file>otherImage/1/shengyin.png</file>
+        <file>otherImage/1/mn_shengyinwu_fill.png</file>
+        <file>otherImage/1/mn_shengyin_fill.png</file>
+        <file>otherImage/1/icon-.png</file>
+        <file>otherImage/1/guangdie.png</file>
+        <file>otherImage/1/fenxiang.png</file>
+        <file>otherImage/1/danquxunhuan.png</file>
+        <file>otherImage/1/cibiaoquanyi.png</file>
+        <file>otherImage/1/bofang.png</file>
+    </qresource>
+</RCC>
